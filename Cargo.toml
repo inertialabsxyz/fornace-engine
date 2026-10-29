@@ -1,0 +1,9 @@
+[package]
+name = "fornace-engine"
+version = "0.0.1"
+edition = "2024"
+license = "MIT"
+description = "fornace engine"
+repository = "https://github.com/inertialabsxyz/fornace-engine"
+
+[dependencies]
